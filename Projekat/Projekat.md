@@ -58,4 +58,10 @@ Zatim, posmatra se rotacija kocke i trenutna boja, pa novi niz izgleda ovako:
 
 BOYRWOGRYOBWRGOYBWGR
 
+
+Svakoj od boja pripiše se jedan trobitni broj:
+
+
+001|010|100|011|000|010|101|011|100|010|001|000|011|101|010|100|001|000|101|011|
+
 ## Zaključak
