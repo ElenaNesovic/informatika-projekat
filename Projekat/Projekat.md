@@ -32,7 +32,10 @@ CRVENA (R) --- 011
 ZELENA (G) --- 101
 
 
+Nakon toga se novodoijeni niz nula i jedinica obrne. Tako dobijeni niz predstavlja odgovarajuću šifru.
 
 ![Screenshot (189)](https://user-images.githubusercontent.com/68563777/121240257-68944b80-c89a-11eb-9501-f9774032e93c.png)
+### Primer
+
 
 ## Zaključak
