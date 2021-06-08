@@ -22,8 +22,14 @@ NARANDŽASTA (O) --- 010
 
 
 CRVENA (R) --- 011
+
+
 ŽUTA (Y) --- 100
+
+
 ZELENA (G) --- 101
+
+
 
 ![Screenshot (189)](https://user-images.githubusercontent.com/68563777/121240257-68944b80-c89a-11eb-9501-f9774032e93c.png)
 
