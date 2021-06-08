@@ -13,8 +13,14 @@ Na početku se unosi broj n a potom i n cifara od 1 do 9 sa razmakom. Zatim se s
 bitova rotira kocku udesno ili naviše. Svaki put kada se kocka zarotira, trenutna boja na kocki pamti se u niz boja. Zatim se svakoj boji na sledeći način pridruži jedan 
 trobitni binarni broj:
  BELA (W) --- 000
+ 
+ 
 PLAVA (B) --- 001
+
+
 NARANDŽASTA (O) --- 010
+
+
 CRVENA (R) --- 011
 ŽUTA (Y) --- 100
 ZELENA (G) --- 101
