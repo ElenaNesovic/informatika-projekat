@@ -10,7 +10,15 @@ sakrivene metodom koja je objašnjena ispod.
 ## Opis projekta
 Na početku se unosi broj n a potom i n cifara od 1 do 9 sa razmakom. Zatim se svaka od n cifara pretvori u četvorobitni binarni broj. Dekodiranje se vrši pomoću kocke
 čija je slika zadata ispod. Neka 1 odgovara rotaciji kocke naviše, a 0 rotaciji kocke udesno. Odnosno, kada se svaka od unetih cifara pretvori u binarni broj, svaki od
-bitova rotira kocku udesno ili naviše. Svaki put kada se kocka zarotira, trenutna boja na kocki pamti se u niz boja. Zatim se taj niz obrne. U sledecem koraku se  
+bitova rotira kocku udesno ili naviše. Svaki put kada se kocka zarotira, trenutna boja na kocki pamti se u niz boja. Zatim se svakoj boji na sledeći način pridruži jedan 
+trobitni binarni broj:
+ BELA (W) --- 000
+PLAVA (B) --- 001
+NARANDŽASTA (O) --- 010
+CRVENA (R) --- 011
+ŽUTA (Y) --- 100
+ZELENA (G) --- 101
+
 ![Screenshot (189)](https://user-images.githubusercontent.com/68563777/121240257-68944b80-c89a-11eb-9501-f9774032e93c.png)
 
 ## Zaključak
