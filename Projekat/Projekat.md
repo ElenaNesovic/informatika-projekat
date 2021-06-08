@@ -39,6 +39,8 @@ Dekoder unosi broj cifara ove šifre i datu šifru. On obrće ovaj niz, dodeljuj
 ![Screenshot (189)](https://user-images.githubusercontent.com/68563777/121240257-68944b80-c89a-11eb-9501-f9774032e93c.png)
 ### Primer
 U nastavku dat je primer koj ilustruje po kom principu radi koder.
+
+
 ULAZ
 
 5
@@ -63,5 +65,16 @@ Svakoj od boja pripiše se jedan trobitni broj:
 
 
 001|010|100|011|000|010|101|011|100|010|001|000|011|101|010|100|001|000|101|011|
+
+
+Dati niz se obrne pa je izlaz oblika:
+
+
+IZLAZ
+
+
+110101000100001010101110000100010001110101010000110001010100
+
+
 
 ## Zaključak
