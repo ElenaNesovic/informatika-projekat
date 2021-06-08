@@ -32,9 +32,8 @@ CRVENA (R) --- 011
 ZELENA (G) --- 101
 
 
-Nakon toga se novodoijeni niz nula i jedinica obrne. Tako dobijeni niz predstavlja odgovarajuću šifru.
-Što se tiče dekodera, dekoder obrće ovaj niz, dodeljuje svakom trobitnom binarnom broju jednu boju, a zatim "odrotira" kocku pamteći korake. Koraci se zatim
-preslikaju u niz brojeva koji su bili uneti na samom početku.
+Nakon toga se novodobijeni niz nula i jedinica obrne. Tako dobijeni niz predstavlja odgovarajuću šifru.
+Dekoder unosi broj cifara ove šifre i datu šifru. On obrće ovaj niz, dodeljuje svakom trobitnom binarnom broju jednu boju, a zatim "odrotira" kocku pamteći korake. Koraci se zatim preslikaju u niz brojeva koji su bili uneti na samom početku.
 Što se tiče implementacije, rađeno je u programskom jeziku C.
 
 ![Screenshot (189)](https://user-images.githubusercontent.com/68563777/121240257-68944b80-c89a-11eb-9501-f9774032e93c.png)
