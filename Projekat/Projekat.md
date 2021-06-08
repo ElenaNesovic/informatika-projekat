@@ -38,6 +38,17 @@ Dekoder unosi broj cifara ove šifre i datu šifru. On obrće ovaj niz, dodeljuj
 
 ![Screenshot (189)](https://user-images.githubusercontent.com/68563777/121240257-68944b80-c89a-11eb-9501-f9774032e93c.png)
 ### Primer
-Unese se broj pet
+ULAZ
+
+5
+
+
+4 3 2 9 1
+
+
+Svaki od ovih brojeva se pretvori u binarni, pa se tako dobija sledeći niz:
+
+
+0100|0011|0010|1001|0001
 
 ## Zaključak
