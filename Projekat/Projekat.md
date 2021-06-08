@@ -12,6 +12,8 @@ Na početku se unosi broj n a potom i n cifara od 1 do 9 sa razmakom. Zatim se s
 čija je slika zadata ispod. Neka 1 odgovara rotaciji kocke naviše, a 0 rotaciji kocke udesno. Odnosno, kada se svaka od unetih cifara pretvori u binarni broj, svaki od
 bitova rotira kocku udesno ili naviše. Svaki put kada se kocka zarotira, trenutna boja na kocki pamti se u niz boja. Zatim se svakoj boji na sledeći način pridruži jedan 
 trobitni binarni broj:
+
+
  BELA (W) --- 000
  
  
