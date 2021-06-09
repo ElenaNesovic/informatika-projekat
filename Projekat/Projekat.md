@@ -79,5 +79,5 @@ IZLAZ
 
 ## Zaključak
  Implementacijom ovako osmišljenog načina za kreiranje kodera i dekodera u programskom jeziku C++, 
-dobijen je program u kome je moguće sakriti n cujetih cifara za neko uneto n. Ovakav način rada moguće je zakompikovati. Prva ideja 
-je da se pri svakom ponovnom porketanju programa 
+dobijen je program u kome je moguće sakriti n unetih cifara za neko uneto n. Ovakav način rada moguće je zakomplikovati. Prva ideja 
+je da se pri svakom ponovnom pokretanju programa trenutno stanje kocke menja, tako što bi se u posebnoj datoteci čuvale informacije prošlih početnih stanja kocke. Drugo, moguće bi bilo proširiti broj načina okretanja kocke. Na primer, kada bi gledali par binarnih cifara, svaki par (00,01,10,11) bi diktirao okretanje kocke u neku stranu (gore, dole, desno, levo). Slično, može se posmatrati i potpuno novo telo sa dosta više načina obrtanja.
