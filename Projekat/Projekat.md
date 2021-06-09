@@ -78,3 +78,6 @@ IZLAZ
 
 
 ## Zaključak
+ Implementacijom ovako osmišljenog načina za kreiranje kodera i dekodera u programskom jeziku C++, 
+dobijen je program u kome je moguće sakriti n cujetih cifara za neko uneto n. Ovakav način rada moguće je zakompikovati. Prva ideja 
+je da se pri svakom ponovnom porketanju programa 
